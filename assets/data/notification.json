@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Game Invite",
+    "message": "John Doe invited you to play *Fortnite* on PlayPal.",
+    "timestamp": "2024-04-25T14:48:00.000Z",
+    "type": "invite"
+  },
+  {
+    "id": "2",
+    "title": "Friend Request",
+    "message": "Jane Smith sent you a friend request on PlayPal.",
+    "timestamp": "2024-04-26T09:15:00.000Z",
+    "type": "friend_request"
+  },
+  {
+    "id": "3",
+    "title": "Match Reminder",
+    "message": "Don't forget your match in *Apex Legends* at 6 PM on PlayPal.",
+    "timestamp": "2024-04-27T12:30:00.000Z",
+    "type": "reminder"
+  },
+  {
+    "id": "4",
+    "title": "New Game Added",
+    "message": "*Chess* has been added to the Popular Games section on PlayPal.",
+    "timestamp": "2024-04-28T10:00:00.000Z",
+    "type": "update"
+  },
+  {
+    "id": "5",
+    "title": "Tournament Invitation",
+    "message": "You have been invited to join the Soccer Tournament this Saturday on PlayPal.",
+    "timestamp": "2024-04-29T08:00:00.000Z",
+    "type": "event"
+  },
+  {
+    "id": "6",
+    "title": "Achievement Unlocked",
+    "message": "Congratulations! You've reached Level 10 in *Fortnite*.",
+    "timestamp": "2024-04-30T16:45:00.000Z",
+    "type": "achievement"
+  },
+  {
+    "id": "7",
+    "title": "Live Stream Alert",
+    "message": "Your friend Jane Smith is live streaming *Apex Legends* now!",
+    "timestamp": "2024-05-01T19:20:00.000Z",
+    "type": "live_stream"
+  },
+  {
+    "id": "8",
+    "title": "Tournament Results",
+    "message": "Congratulations! Your team won the *Summer Soccer Cup*.",
+    "timestamp": "2024-05-02T18:00:00.000Z",
+    "type": "tournament_result"
+  },
+  {
+    "id": "9",
+    "title": "Friend Request Accepted",
+    "message": "Jane Smith accepted your friend request on PlayPal.",
+    "timestamp": "2024-05-03T11:30:00.000Z",
+    "type": "friend_request_accepted"
+  },
+  {
+    "id": "10",
+    "title": "New Tournament Announced",
+    "message": "Join the *Winter Chess Championship* starting next week on PlayPal.",
+    "timestamp": "2024-05-04T09:00:00.000Z",
+    "type": "tournament_announcement"
+  },
+  {
+    "id": "11",
+    "title": "Group Invite",
+    "message": "Alex Johnson invited you to join the *Ultimate Gamers* group on PlayPal.",
+    "timestamp": "2024-05-05T14:20:00.000Z",
+    "type": "group_invite"
+  },
+  {
+    "id": "12",
+    "title": "Event Reminder",
+    "message": "Don't miss the *Fortnite* live event happening tomorrow at 7 PM on PlayPal.",
+    "timestamp": "2024-05-06T10:15:00.000Z",
+    "type": "event_reminder"
+  },
+  {
+    "id": "13",
+    "title": "Challenge Accepted",
+    "message": "You have accepted the challenge to beat *Chess* grandmaster Alex.",
+    "timestamp": "2024-05-07T13:50:00.000Z",
+    "type": "challenge"
+  },
+  {
+    "id": "14",
+    "title": "Friend Joined a Tournament",
+    "message": "Jane Smith has joined the *Apex Legends* tournament on PlayPal.",
+    "timestamp": "2024-05-08T16:30:00.000Z",
+    "type": "friend_activity"
+  },
+  {
+    "id": "15",
+    "title": "Weekly Summary",
+    "message": "You've played 5 games and earned 300 points this week on PlayPal!",
+    "timestamp": "2024-05-09T08:45:00.000Z",
+    "type": "summary"
+  }
+]

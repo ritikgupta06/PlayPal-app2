@@ -1,0 +1,434 @@
+{
+    "games": [
+      {
+        "id": "1",
+        "title": "Cricket",
+        "gameType": "Sports",
+        "image": "../../assets/images/cricket.jpg",
+        "locations": [
+          {
+            "id": "1",
+            "name": "Allen Forest Zoo",
+            "address": "Husainabad, Kanpur, UP, India",
+            "latitude": 26.448654,
+            "longitude": 80.325345
+          },
+          {
+            "id": "2",
+            "name": "Nana Rao Park",
+            "address": "Civil Lines, Kanpur, UP, India",
+            "latitude": 26.467365,
+            "longitude": 80.324695
+          },
+          {
+            "id": "3",
+            "name": "Phool Bagh",
+            "address": "Mall Road, Kanpur, UP, India",
+            "latitude": 26.45861,
+            "longitude": 80.321198
+          },
+          {
+            "id": "4",
+            "name": "Mahatma Gandhi Park",
+            "address": "Sadar, Kanpur, UP, India",
+            "latitude": 26.465221,
+            "longitude": 80.352524
+          },
+          {
+            "id": "5",
+            "name": "Nehru Park",
+            "address": "Nehru Road, Kanpur, UP, India",
+            "latitude": 26.469155,
+            "longitude": 80.359635
+          },
+          {
+            "id": "6",
+            "name": "Kanpur Zoo",
+            "address": "Near Allen Forest, Kanpur, UP, India",
+            "latitude": 26.448824,
+            "longitude": 80.325689
+          },
+          {
+            "id": "7",
+            "name": "Mangal Pandey Park",
+            "address": "Gumti No. 5, Kanpur, UP, India",
+            "latitude": 26.470562,
+            "longitude": 80.358092
+          },
+          {
+            "id": "8",
+            "name": "Lal Bangla Park",
+            "address": "Nawabganj, Kanpur, UP, India",
+            "latitude": 26.477409,
+            "longitude": 80.351322
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Football",
+        "gameType": "Sports",
+        "image": "../../assets/images/football.jpg",
+        "locations": [
+          {
+            "id": "1",
+            "name": "Allen Forest Zoo",
+            "address": "Husainabad, Kanpur, UP, India",
+            "latitude": 26.448654,
+            "longitude": 80.325345
+          },
+          {
+            "id": "3",
+            "name": "Phool Bagh",
+            "address": "Mall Road, Kanpur, UP, India",
+            "latitude": 26.45861,
+            "longitude": 80.321198
+          },
+          {
+            "id": "5",
+            "name": "Nehru Park",
+            "address": "Nehru Road, Kanpur, UP, India",
+            "latitude": 26.469155,
+            "longitude": 80.359635
+          },
+          {
+            "id": "7",
+            "name": "Mangal Pandey Park",
+            "address": "Gumti No. 5, Kanpur, UP, India",
+            "latitude": 26.470562,
+            "longitude": 80.358092
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Chess",
+        "gameType": "Board Games",
+        "image": "../../assets/images/chess.jpg",
+        "locations": [
+          {
+            "id": "2",
+            "name": "Nana Rao Park",
+            "address": "Civil Lines, Kanpur, UP, India",
+            "latitude": 26.467365,
+            "longitude": 80.324695
+          },
+          {
+            "id": "4",
+            "name": "Mahatma Gandhi Park",
+            "address": "Sadar, Kanpur, UP, India",
+            "latitude": 26.465221,
+            "longitude": 80.352524
+          },
+          {
+            "id": "6",
+            "name": "Kanpur Zoo",
+            "address": "Near Allen Forest, Kanpur, UP, India",
+            "latitude": 26.448824,
+            "longitude": 80.325689
+          },
+          {
+            "id": "8",
+            "name": "Lal Bangla Park",
+            "address": "Nawabganj, Kanpur, UP, India",
+            "latitude": 26.477409,
+            "longitude": 80.351322
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Ludo",
+        "gameType": "Board Games",
+        "image": "../../assets/images/ludo.jpg",
+        "locations": [
+          {
+            "id": "1",
+            "name": "Allen Forest Zoo",
+            "address": "Husainabad, Kanpur, UP, India",
+            "latitude": 26.448654,
+            "longitude": 80.325345
+          },
+          {
+            "id": "2",
+            "name": "Nana Rao Park",
+            "address": "Civil Lines, Kanpur, UP, India",
+            "latitude": 26.467365,
+            "longitude": 80.324695
+          },
+          {
+            "id": "3",
+            "name": "Phool Bagh",
+            "address": "Mall Road, Kanpur, UP, India",
+            "latitude": 26.45861,
+            "longitude": 80.321198
+          },
+          {
+            "id": "4",
+            "name": "Mahatma Gandhi Park",
+            "address": "Sadar, Kanpur, UP, India",
+            "latitude": 26.465221,
+            "longitude": 80.352524
+          },
+          {
+            "id": "5",
+            "name": "Nehru Park",
+            "address": "Nehru Road, Kanpur, UP, India",
+            "latitude": 26.469155,
+            "longitude": 80.359635
+          },
+          {
+            "id": "6",
+            "name": "Kanpur Zoo",
+            "address": "Near Allen Forest, Kanpur, UP, India",
+            "latitude": 26.448824,
+            "longitude": 80.325689
+          },
+          {
+            "id": "7",
+            "name": "Mangal Pandey Park",
+            "address": "Gumti No. 5, Kanpur, UP, India",
+            "latitude": 26.470562,
+            "longitude": 80.358092
+          },
+          {
+            "id": "8",
+            "name": "Lal Bangla Park",
+            "address": "Nawabganj, Kanpur, UP, India",
+            "latitude": 26.477409,
+            "longitude": 80.351322
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Badminton",
+        "gameType": "Sports",
+        "image": "../../assets/images/badminton.jpg",
+        "locations": [
+          {
+            "id": "2",
+            "name": "Nana Rao Park",
+            "address": "Civil Lines, Kanpur, UP, India",
+            "latitude": 26.467365,
+            "longitude": 80.324695
+          },
+          {
+            "id": "3",
+            "name": "Phool Bagh",
+            "address": "Mall Road, Kanpur, UP, India",
+            "latitude": 26.45861,
+            "longitude": 80.321198
+          },
+          {
+            "id": "5",
+            "name": "Nehru Park",
+            "address": "Nehru Road, Kanpur, UP, India",
+            "latitude": 26.469155,
+            "longitude": 80.359635
+          },
+          {
+            "id": "7",
+            "name": "Mangal Pandey Park",
+            "address": "Gumti No. 5, Kanpur, UP, India",
+            "latitude": 26.470562,
+            "longitude": 80.358092
+          },
+          {
+            "id": "8",
+            "name": "Lal Bangla Park",
+            "address": "Nawabganj, Kanpur, UP, India",
+            "latitude": 26.477409,
+            "longitude": 80.351322
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Valorant",
+        "gameType": "Video Games",
+        "image": "../../assets/images/valorant.jpg",
+        "locations": [
+          {
+            "id": "1",
+            "name": "Allen Forest Zoo",
+            "address": "Husainabad, Kanpur, UP, India",
+            "latitude": 26.448654,
+            "longitude": 80.325345
+          },
+          {
+            "id": "2",
+            "name": "Nana Rao Park",
+            "address": "Civil Lines, Kanpur, UP, India",
+            "latitude": 26.467365,
+            "longitude": 80.324695
+          },
+          {
+            "id": "3",
+            "name": "Phool Bagh",
+            "address": "Mall Road, Kanpur, UP, India",
+            "latitude": 26.45861,
+            "longitude": 80.321198
+          },
+          {
+            "id": "4",
+            "name": "Mahatma Gandhi Park",
+            "address": "Sadar, Kanpur, UP, India",
+            "latitude": 26.465221,
+            "longitude": 80.352524
+          },
+          {
+            "id": "5",
+            "name": "Nehru Park",
+            "address": "Nehru Road, Kanpur, UP, India",
+            "latitude": 26.469155,
+            "longitude": 80.359635
+          },
+          {
+            "id": "6",
+            "name": "Kanpur Zoo",
+            "address": "Near Allen Forest, Kanpur, UP, India",
+            "latitude": 26.448824,
+            "longitude": 80.325689
+          },
+          {
+            "id": "7",
+            "name": "Mangal Pandey Park",
+            "address": "Gumti No. 5, Kanpur, UP, India",
+            "latitude": 26.470562,
+            "longitude": 80.358092
+          },
+          {
+            "id": "8",
+            "name": "Lal Bangla Park",
+            "address": "Nawabganj, Kanpur, UP, India",
+            "latitude": 26.477409,
+            "longitude": 80.351322
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Call of Duty",
+        "gameType": "Video Games",
+        "image": "../../assets/images/call-of-duty.jpg",
+        "locations": [
+          {
+            "id": "1",
+            "name": "Allen Forest Zoo",
+            "address": "Husainabad, Kanpur, UP, India",
+            "latitude": 26.448654,
+            "longitude": 80.325345
+          },
+          {
+            "id": "2",
+            "name": "Nana Rao Park",
+            "address": "Civil Lines, Kanpur, UP, India",
+            "latitude": 26.467365,
+            "longitude": 80.324695
+          },
+          {
+            "id": "3",
+            "name": "Phool Bagh",
+            "address": "Mall Road, Kanpur, UP, India",
+            "latitude": 26.45861,
+            "longitude": 80.321198
+          },
+          {
+            "id": "4",
+            "name": "Mahatma Gandhi Park",
+            "address": "Sadar, Kanpur, UP, India",
+            "latitude": 26.465221,
+            "longitude": 80.352524
+          },
+          {
+            "id": "5",
+            "name": "Nehru Park",
+            "address": "Nehru Road, Kanpur, UP, India",
+            "latitude": 26.469155,
+            "longitude": 80.359635
+          },
+          {
+            "id": "6",
+            "name": "Kanpur Zoo",
+            "address": "Near Allen Forest, Kanpur, UP, India",
+            "latitude": 26.448824,
+            "longitude": 80.325689
+          },
+          {
+            "id": "7",
+            "name": "Mangal Pandey Park",
+            "address": "Gumti No. 5, Kanpur, UP, India",
+            "latitude": 26.470562,
+            "longitude": 80.358092
+          },
+          {
+            "id": "8",
+            "name": "Lal Bangla Park",
+            "address": "Nawabganj, Kanpur, UP, India",
+            "latitude": 26.477409,
+            "longitude": 80.351322
+          }
+        ]
+      }
+    ],
+    "grounds": [
+      {
+        "id": "1",
+        "name": "Allen Forest Zoo",
+        "address": "Husainabad, Kanpur, UP, India",
+        "latitude": 26.448654,
+        "longitude": 80.325345
+      },
+      {
+        "id": "2",
+        "name": "Nana Rao Park",
+        "address": "Civil Lines, Kanpur, UP, India",
+        "latitude": 26.467365,
+        "longitude": 80.324695
+      },
+      {
+        "id": "3",
+        "name": "Phool Bagh",
+        "address": "Mall Road, Kanpur, UP, India",
+        "latitude": 26.45861,
+        "longitude": 80.321198
+      },
+      {
+        "id": "4",
+        "name": "Mahatma Gandhi Park",
+        "address": "Sadar, Kanpur, UP, India",
+        "latitude": 26.465221,
+        "longitude": 80.352524
+      },
+      {
+        "id": "5",
+        "name": "Nehru Park",
+        "address": "Nehru Road, Kanpur, UP, India",
+        "latitude": 26.469155,
+        "longitude": 80.359635
+      },
+      {
+        "id": "6",
+        "name": "Kanpur Zoo",
+        "address": "Near Allen Forest, Kanpur, UP, India",
+        "latitude": 26.448824,
+        "longitude": 80.325689
+      },
+      {
+        "id": "7",
+        "name": "Mangal Pandey Park",
+        "address": "Gumti No. 5, Kanpur, UP, India",
+        "latitude": 26.470562,
+        "longitude": 80.358092
+      },
+      {
+        "id": "8",
+        "name": "Lal Bangla Park",
+        "address": "Nawabganj, Kanpur, UP, India",
+        "latitude": 26.477409,
+        "longitude": 80.351322
+      }
+    ]
+  }
+  
